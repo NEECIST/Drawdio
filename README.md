@@ -2,7 +2,7 @@
 
 # Material list
 
-|  Components                                |                               |
+|  Components                                |            Quantity           |
 | -------------------------------------------|-------------------------------|
 |    PCB Drawdio                             |               1               |
 |    Resistência 20MOhm                      |               1               |
