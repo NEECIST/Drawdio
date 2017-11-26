@@ -31,7 +31,7 @@
 <b>Nota:</b>Consulta a lista de material para veres o código de cores de cada resistência.
 
 <div>
-<figure><img src="https://github.com/NEECIST/ws-drawdio/blob/master/images/Passo_2.png?raw=trues" width="50" height="150"></figure>
+<figure><img src="https://github.com/NEECIST/ws-drawdio/blob/master/images/Passo_2.png?raw=trues" width="50" height="180"></figure>
 </div>
 
 2. Coloca o condensador de 680pF. Coloca o condensador de 0.1uF.
@@ -39,7 +39,7 @@
 <b>Nota:</b> Consulta a lista de materila para veres como distinguir os condensadores.
 
 <div>
-<figure><img src="https://github.com/NEECIST/ws-drawdio/blob/master/images/Passo_3.png?raw=trues" width="50" height="150"></figure>
+<figure><img src="https://github.com/NEECIST/ws-drawdio/blob/master/images/Passo_3.png?raw=trues" width="50" height="190"></figure>
 </div>
 
 3. Solda o oscilador TLC551
