@@ -4,23 +4,23 @@
 
 |  Components                                |            Quantity           |      Images      |
 | -------------------------------------------|-------------------------------|------------------|
-|    PCB Drawdio                             |               1               |
-|    Resistência 20MΩ                        |               1               |
-|    Resistência 300kΩ                       |               1               |
-|    Resistência 10kΩ                        |               1               |
-|    Condensador 680pF                       |               1               |
-|    Condensador 0.1uF                       |               1               |
-|    Oscilador TLC551                        |               1               |
-|    Condensador 100uF                       |               1               |
-|    Piezzo buzzer                           |               1               |
-|    Suporte 1 pilha AAA / AA                |               1               |
-|    Zip Tie                                 |               2               |
-|    Fita cobre (tamanho qb)                 |               1               |
-|    Pionés                                  |               1               |
-|	 Lápis									 |				 1				 |
-|    Pilha      							 |               1               |
+|    PCB Drawdio                             |               1               |<div><figure><img src="https://github.com/NEECIST/ws-drawdio/blob/master/images/PCB.PNG?raw=trues" width="150" height="50"></figure></div>|
+|    Resistência 20MΩ                        |               1               |<div><figure><img src="https://github.com/NEECIST/ws-drawdio/blob/master/images/Resistencia_20M.PNG?raw=trues" width="150" height="50"></figure></div>|
+|    Resistência 300kΩ                       |               1               |<div><figure><img src="https://github.com/NEECIST/ws-drawdio/blob/master/images/resistencia_300k.jpeg?raw=trues" width="150" height="50"></figure></div>|
+|    Resistência 10kΩ                        |               1               |<div><figure><img src="https://github.com/NEECIST/ws-drawdio/blob/master/images/resistencia_10k.jpg?raw=trues" width="150" height="50"></figure></div>|
+|    Condensador 680pF                       |               1               |<div><figure><img src="https://github.com/NEECIST/ws-drawdio/blob/master/images/Condensador_680pF.jpeg?raw=trues" width="150" height="50"></figure></div>|
+|    Condensador 0.1uF                       |               1               |<div><figure><img src="https://github.com/NEECIST/ws-drawdio/blob/master/images/condensador_0.1uF.jpg?raw=trues" width="150" height="50"></figure></div>|
+|    Oscilador TLC551                        |               1               |<div><figure><img src="https://github.com/NEECIST/ws-drawdio/blob/master/images/oscilador_TLC551.jpeg?raw=trues" width="150" height="50"></figure></div>|
+|    Condensador 100uF                       |               1               |<div><figure><img src="https://github.com/NEECIST/ws-drawdio/blob/master/images/Condensador_100uF.jpeg?raw=trues" width="150" height="50"></figure></div>|
+|    Piezzo buzzer                           |               1               |<div><figure><img src="https://github.com/NEECIST/ws-drawdio/blob/master/images/Piezzo_buzzer.JPG?raw=trues" width="150" height="50"></figure></div>|
+|    Suporte 1 pilha AAA / AA                |               1               |<div><figure><img src="https://github.com/NEECIST/ws-drawdio/blob/master/images/Suporte_1_pilha_AAA_ou_AA.jpg?raw=trues" width="50" height="50"></figure></div>|
+|    Zip Tie                                 |               2               |<div><figure><img src="https://github.com/NEECIST/ws-drawdio/blob/master/images/Zip-tie.jpeg?raw=trues" width="150" height="50"></figure></div>|
+|    Fita cobre (tamanho qb)                 |               1               |<div><figure><img src="https://github.com/NEECIST/ws-drawdio/blob/master/images/Fita_cobre.PNG?raw=trues" width="150" height="50"></figure></div>|
+|    Pionés                                  |               1               |<div><figure><img src="https://github.com/NEECIST/ws-drawdio/blob/master/images/Piones.jpeg?raw=trues" width="150" height="50"></figure></div>|
+|	 Lápis									 |				 1				 |<div><figure><img src="https://github.com/NEECIST/ws-drawdio/blob/master/images/lapis.PNG?raw=trues" width="150" height="50"></figure></div>|
+|    Pilha      							 |               1               |<div><figure><img src="https://github.com/NEECIST/ws-drawdio/blob/master/images/Pilha.PNG?raw=trues" width="150" height="50"></figure></div>|
 
-#Guia de montagem
+# Guia de montagem
 
 <div>
 <figure><img src="https://github.com/NEECIST/ws-drawdio/blob/master/images/Passo_1.png?raw=trues" width="50" height="170"></figure>
