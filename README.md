@@ -23,7 +23,7 @@
 #Guia de montagem
 
 <div>
-<figure><img src="https://github.com/NEECIST/ws-drawdio/blob/master/images/Passo_1.png?raw=trues" width="50" height="150"></figure>
+<figure><img src="https://github.com/NEECIST/ws-drawdio/blob/master/images/Passo_1.png?raw=trues" width="150" height="150"></figure>
 </div>
 
 1. Começa a soldar a resistência de 20MΩ. De seguida, a resistência de 300kΩ. Por fima resistencia de 10kΩ.
