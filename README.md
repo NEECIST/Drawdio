@@ -17,3 +17,45 @@
 |    Zip Tie                                 |               2               |
 |    Fita cobre (tamanho qb)                 |               1               |
 |    Pionés                                  |               1               |
+|	 Lápis									 |				 1				 |
+|    Pilha      							 |               1               |
+
+#Guia de montagem
+
+1. Começa a soldar a resistência de 20Mohm. De seguida, a resistência de 300kohm. Por fima resistencia de 10kohm.
+
+<b>Nota:</b>Consulta a lista de material para veres o código de cores de cada resistência.
+
+2. Coloca o condensador de 680pF. Coloca o condensador de 0.1uF.
+
+<b>Nota:</b> Consulta a lista de materila para veres como distinguir os condensadores.
+
+3. Solda o oscilador TLC551
+
+<b>Atenção!!!!:</b> Cuidado com a forma como colocas-a bola deverá ficar em concordância com o recorte da placa.
+
+4. Solda na PCB o condensador de 100uF
+
+<b>Atenção!!!!:</b> Não te esqueças que a <b>perna maior</b> sera a colocada no <b>+</b>.
+
+5. Agora coloca o Piezo no local indicado na figura.
+
+<b>Nota:</b> Não te preocupes com a orientação. Se tiveres dificuldade em soldar o Piezo pede ajuda.
+
+6. Falta apenas colocar o suporte para as pilhas.
+
+<b>Atenção!!!!:</b> Cuidado com forma como o colocas, a <b>espiral de GND</b>.
+
+<b>Nota:</b> Se tiveres dificuldade em soldar o suporte das pilhas pede ajuda.
+
+7. Coloca agora as braçadeitas para conseguires prender a PCB ao lápis.
+
+8. Pegando na fita de cobre, cola uma das pontas na parte de cobre da PCB e a outra ponta cola no lápis(como podes ver na figura). De seguida coloca o pionés.
+
+<b>Nota:</b> Se tiveres dificuldade em colocar o pionés pede ajuda.
+
+9. Para reforçar o contacto, coloca a fita na horizontal do lápis (como podes ver na imagem).
+
+10. Para terminares o Drawdio, basta colocares a fita de cobre na outra ponta da PCB e enrolares (como podes ver na imagem).
+
+Com o Drawdio concluído já podes fazer "música" à vontade! Basta desenhares e divertires-te!
