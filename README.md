@@ -6,7 +6,7 @@
 | -------------------------------------------|-------------------------------|------------------|
 |    PCB Drawdio                             |               1               |<div><figure><img src="https://github.com/NEECIST/ws-drawdio/blob/master/images/PCB.PNG?raw=trues" width="150" height="50"></figure></div>|
 |    Resistência 20MΩ                        |               1               |<div><figure><img src="https://github.com/NEECIST/ws-drawdio/blob/master/images/Resistencia_20M.PNG?raw=trues" width="150" height="50"></figure></div>|
-|    Resistência 300kΩ                       |               1               |<div><figure><img src="https://github.com/NEECIST/ws-drawdio/blob/master/images/resistencia_300k.jpeg?raw=trues" width="50" height="50"></figure></div>|
+|    Resistência 300kΩ                       |               1               |<div><figure><img src="https://github.com/NEECIST/ws-drawdio/blob/master/images/resistencia_300k.jpeg?raw=trues" width="80" height="80"></figure></div>|
 |    Resistência 10kΩ                        |               1               |<div><figure><img src="https://github.com/NEECIST/ws-drawdio/blob/master/images/resistencia_10k.jpg?raw=trues" width="50" height="50"></figure></div>|
 |    Condensador 680pF  (código:DC481)       |               1               |<div><figure><img src="https://github.com/NEECIST/ws-drawdio/blob/master/images/Condensador_680pF.jpg?raw=trues" width="50" height="50"></figure></div>|
 |    Condensador 0.1uF (código:104)          |               1               |<div><figure><img src="https://github.com/NEECIST/ws-drawdio/blob/master/images/Condensador_0.1uF.jpg?raw=trues" width="50" height="50"></figure></div>|
