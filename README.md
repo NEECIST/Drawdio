@@ -66,11 +66,11 @@
 
 <b>Atenção!!!!:</b> Cuidado com forma como o colocas, a <b>espiral de GND</b>.
 
+<b>Nota:</b> Se tiveres dificuldade em soldar o suporte das pilhas pede ajuda.
+
 <div>
 <figure><img src="https://github.com/NEECIST/ws-drawdio/blob/master/images/Passo_6.PNG?raw=trues" width="50" height="150"></figure>
 </div>
-
-<b>Nota:</b> Se tiveres dificuldade em soldar o suporte das pilhas pede ajuda.
 
 7. Coloca agora as braçadeitas para conseguires prender a PCB ao lápis.
 
@@ -80,11 +80,11 @@
 
 8. Pegando na fita de cobre, cola uma das pontas na parte de cobre da PCB e a outra ponta cola no lápis(como podes ver na figura). De seguida coloca o pionés.
 
+<b>Nota:</b> Se tiveres dificuldade em colocar o pionés pede ajuda.
+
 <div>
 <figure><img src="https://github.com/NEECIST/ws-drawdio/blob/master/images/Passo_8.PNG?raw=trues" width="70" height="150"></figure>
 </div>
-
-<b>Nota:</b> Se tiveres dificuldade em colocar o pionés pede ajuda.
 
 9. Para reforçar o contacto, coloca a fita na horizontal do lápis (como podes ver na imagem).
 
