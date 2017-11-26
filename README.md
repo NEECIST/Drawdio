@@ -67,7 +67,7 @@
 <b>Atenção!!!!:</b> Cuidado com forma como o colocas, a <b>espiral de GND</b>.
 
 <div>
-<figure><img src="https://github.com/NEECIST/ws-drawdio/blob/master/images/Passo_6.PNG?raw=trues" width="70" height="150"></figure>
+<figure><img src="https://github.com/NEECIST/ws-drawdio/blob/master/images/Passo_6.PNG?raw=trues" width="50" height="150"></figure>
 </div>
 
 <b>Nota:</b> Se tiveres dificuldade em soldar o suporte das pilhas pede ajuda.
