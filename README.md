@@ -24,7 +24,7 @@
 
 1. Começa a soldar a resistência de 20MΩ. De seguida, a resistência de 300kΩ. Por fima resistencia de 10kΩ.
 
-**Nota:**Consulta a lista de material para veres o código de cores de cada resistência.
+**Nota:** Consulta a lista de material para veres o código de cores de cada resistência.
 
 ![Something](images/Passo_1.png)
 
